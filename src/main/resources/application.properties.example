@@ -4,7 +4,8 @@ spring.jpa.hibernate.ddl-auto=
 spring.datasource.url=
 spring.datasource.username=
 spring.datasource.password=
-
 spring.datasource.driver-class-name=
 
 frontend.origin=
+server.port=
+api.security.token=
